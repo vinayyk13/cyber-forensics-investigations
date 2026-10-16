@@ -1,0 +1,38 @@
+# Disk DescriptorFile
+version=1
+encoding="windows-1252"
+CID=00f87ecb
+parentCID=ffffffff
+createType="twoGbMaxExtentSparse"
+
+# Extent description
+RW 8323072 SPARSE "Magnet Axiom-s001.vmdk"
+RW 8323072 SPARSE "Magnet Axiom-s002.vmdk"
+RW 8323072 SPARSE "Magnet Axiom-s003.vmdk"
+RW 8323072 SPARSE "Magnet Axiom-s004.vmdk"
+RW 8323072 SPARSE "Magnet Axiom-s005.vmdk"
+RW 8323072 SPARSE "Magnet Axiom-s006.vmdk"
+RW 8323072 SPARSE "Magnet Axiom-s007.vmdk"
+RW 8323072 SPARSE "Magnet Axiom-s008.vmdk"
+RW 8323072 SPARSE "Magnet Axiom-s009.vmdk"
+RW 8323072 SPARSE "Magnet Axiom-s010.vmdk"
+RW 8323072 SPARSE "Magnet Axiom-s011.vmdk"
+RW 8323072 SPARSE "Magnet Axiom-s012.vmdk"
+RW 8323072 SPARSE "Magnet Axiom-s013.vmdk"
+RW 8323072 SPARSE "Magnet Axiom-s014.vmdk"
+RW 8323072 SPARSE "Magnet Axiom-s015.vmdk"
+RW 8323072 SPARSE "Magnet Axiom-s016.vmdk"
+RW 1048576 SPARSE "Magnet Axiom-s017.vmdk"
+
+# The Disk Data Base 
+#DDB
+
+ddb.adapterType = "lsilogic"
+ddb.geometry.cylinders = "8354"
+ddb.geometry.heads = "255"
+ddb.geometry.sectors = "63"
+ddb.longContentID = "ad07260f1b78be8ab77f2ec100f87ecb"
+ddb.toolsInstallType = "1"
+ddb.toolsVersion = "12451"
+ddb.uuid = "60 00 C2 93 5d 1f c5 81-3c 85 1a 54 a5 a2 e8 c5"
+ddb.virtualHWVersion = "21"
